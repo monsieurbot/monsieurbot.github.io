@@ -41,7 +41,7 @@ Les comptes inactifs sont automatiquement supprimés après **24 mois** (notific
 
 | Prestataire | Rôle | Localisation | Politique |
 |--------------|------|---------------|-----------|
-| **Clever Cloud / Scaleway** | Hébergement (SecNumCloud) | France | [[Privacy CleverCloud](https://www.clever.cloud/fr/politique-de-confidentialite/) |
+| **Clever Cloud** | Hébergement (En cours de certification SecNumCloud) | France | [[Privacy CleverCloud](https://www.clever.cloud/fr/politique-de-confidentialite/) |
 | **Firebase (Google Ireland)** | Notifications push et analytics | UE (Belgique) | [policies.google.com/privacy](https://policies.google.com/privacy) |
 | **ProConnect (DINUM)** | Authentification eIDAS | France | Fournisseur d’identité de l’État |
 
