@@ -99,13 +99,5 @@ Toute mise à jour majeure sera signalée dans l’application.
 
 ---
 
-## 🟢 En résumé
-
-- Permissions limitées : **caméra**, **galerie**, **téléphone**.  
-- Vos favoris et votre session restent **sur votre appareil**.  
-- Données hébergées en **France**, sécurisées, jamais revendues.
-
----
-
 © 2025 — Ma Base Connectée  
 Tous droits réservés.
