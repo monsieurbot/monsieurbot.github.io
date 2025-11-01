@@ -1,5 +1,4 @@
 title: "Ma Base Connectée"
 description: "Politique de confidentialité"
-theme: jekyll-theme-minimal
-logo: /favicon.ico   # optionnel, remplace par ton logo si tu veux
+theme: minima
 show_downloads: false
